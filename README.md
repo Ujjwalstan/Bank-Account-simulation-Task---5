@@ -4,10 +4,6 @@
 This is a simple **Bank Account Simulation** program written in Java as part of an internship task.  
 It demonstrates **Object-Oriented Programming (OOP)** concepts like **Classes, Encapsulation, and Inheritance**.
 
-## 🛠 Tools Used
-- Java
-- VS Code / Terminal
-
 ## 🚀 Features
 - Create a bank account
 - Deposit and withdraw money
@@ -46,5 +42,3 @@ Enter initial deposit amount:
 5. Exit
 ```
 
-## ✍️ Author
-*Written by a student as part of a Java Developer Internship Task.*
